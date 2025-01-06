@@ -2,4 +2,4 @@
 
 YujiTech Creating a Youtube Clone, <br />YouTube Clone build using HTML, CSS, and JavaScript. 
 
-  <a href="https://YujiTech.github.io/grilli/"><strong>➥ Live Demo</strong></a>
+  <a href="https://yujitech.github.io/YouTube-clone/"><strong>➥ Live Demo</strong></a>  
